@@ -8,7 +8,7 @@ ArMarket blends **Arweave Tech**, **AI Insights 🤖**, and **Insurance 🛡️*
 ## 🌐 **Deployment & Demo**  
 
 - **Live Demo**: [https://ar-market-ao.vercel.app/](https://ar-market-ao.vercel.app/)  
-- **Decentralized Hosting**: [https://ar-market-ao_arlink.ar-io.dev/](https://ar-market-ao_arlink.ar-io.dev/)  
+- **Decentralized Hosting**: [https://ar-ao_arlink.ar-io.dev/](https://ar-ao_arlink.ar-io.dev/)
 - **YouTube Demo**: [https://youtu.be/0H5N0SxRAvE](https://youtu.be/0H5N0SxRAvE)
 
 ---
